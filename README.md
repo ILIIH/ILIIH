@@ -47,8 +47,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ILIIH&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ILIIH&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ILIIH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILIIH&show_icons=true&theme=radical)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILIIH&size_weight=0.5&count_weight=0.5)
 
 
