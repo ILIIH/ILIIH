@@ -17,7 +17,7 @@
 ### About Me :
 I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ireland.
 
-- :telescope: I’m working as a Software Engineer and contributing to IOS Android and Crossplatform development.
+- :telescope: I’m working as a Software Engineer and contributing to IOS/Android software development.
 
 - :seedling: Exploring Technical Content Writing.
 
