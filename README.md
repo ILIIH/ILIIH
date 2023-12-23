@@ -19,9 +19,9 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I’m working as a Software Engineer and contributing to IOS/Android software development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring AI / ML / AR for mobile deveopment.
 
-- :zap: In my free time, I solve leetcode tasks.
+- :zap:Open for colaborating, looking for Android / IOS native developeres.
 
 ---
 
