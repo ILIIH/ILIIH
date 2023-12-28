@@ -1,8 +1,10 @@
+# Illia Branchuk Portfolio
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center" >
+
+<div align="center">
   <a href="https://www.linkedin.com/in/illia-b-194441247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,28 +13,26 @@
   </a>
 </div>
 
+---
+
+## About Me:
+
+Hello, fellow developers! 👋 I'm Illia, a passionate Mobile Developer based in Ireland. With a strong foundation in software engineering, I bring creativity and innovation to iOS and Android development projects. My journey in the tech world is fueled by a love for creating impactful and user-friendly mobile applications.
+
+- :telescope: Currently working as a Software Engineer, contributing to iOS/Android software development.
+- :seedling: Continuously exploring the realms of AI, ML, and AR to stay at the forefront of mobile development trends.
+- :zap: Open to collaborating and actively seeking talented Android/iOS native developers to join forces on exciting and impactful projects.
 
 ---
 
-### About Me :
-I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ireland.
+## Languages and Tools:
 
-- :telescope: I’m working as a Software Engineer and contributing to IOS/Android software development.
-
-- :seedling: Exploring AI / ML / AR for mobile deveopment.
-
-- :zap:Open for colaborating, looking for Android / IOS native developeres.
-
----
-
-### Languages and Tools :
-
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -52,8 +52,9 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ---
-<div id="stats" align="center" style="margin-top: 20px;">
-  
+
+<div align="center" style="margin-top: 20px;">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ILIIH)<br/><br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILIIH&size_weight=0.5&count_weight=0.5)<br/><br/><br/>
@@ -61,3 +62,19 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 </div>
 
+## Let's Connect:
+
+Feel free to connect and explore the world of coding with me! 🚀
+
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [illia.dev](https://illia.dev)
+- 🐦 Twitter: [@ILLIABRANCHUK](https://twitter.com/ILLIABRANCHUK)
+- 📷 Instagram: [@illia.dev](https://www.instagram.com/illia.dev/)
+- 🎮 Steam: [ILLIABRANCHUK](https://steamcommunity.com/id/ILLIABRANCHUK/)
+
+Looking forward to creating amazing things together!
+
+## Recent Blog Posts:
+
+- [How I Built My First Mobile App](https://illia.dev/blog/how-i-built-my-first-mobile-app)
+- [Exploring the Future of Mobile Development with AR
