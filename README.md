@@ -66,11 +66,8 @@ Hello, fellow developers! 👋 I'm Illia, a passionate Mobile Developer based in
 
 Feel free to connect and explore the world of coding with me! 🚀
 
-- 📧 Email: your.email@example.com
+- 📧 Email: illiabranchuk@gmail.com
 - 🌐 Portfolio: [illia.dev](https://illia.dev)
-- 🐦 Twitter: [@ILLIABRANCHUK](https://twitter.com/ILLIABRANCHUK)
-- 📷 Instagram: [@illia.dev](https://www.instagram.com/illia.dev/)
-- 🎮 Steam: [ILLIABRANCHUK](https://steamcommunity.com/id/ILLIABRANCHUK/)
 
 Looking forward to creating amazing things together!
 
