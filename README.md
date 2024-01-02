@@ -71,7 +71,7 @@ Feel free to connect and explore the world of coding with me! 🚀
 
 Looking forward to creating amazing things together!
 
-## Recent Blog Posts:
+## Recent Youtube Posts:
 
-- [How I Built My First Mobile App](https://illia.dev/blog/how-i-built-my-first-mobile-app)
-- [Exploring the Future of Mobile Development with AR
+- [Approaches to build AI for android application](https://illia.dev/blog/ai-mobile-app)
+
