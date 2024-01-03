@@ -67,11 +67,11 @@ Hello, fellow developers! 👋 I'm Illia, a passionate Mobile Developer based in
 Feel free to connect and explore the world of coding with me! 🚀
 
 - 📧 Email: illiabranchuk@gmail.com
-- 🌐 Portfolio: [illia.dev](https://illia.dev)
+- 🌐 Portfolio: [illia.dev](https://)
 
 Looking forward to creating amazing things together!
 
 ## Recent Youtube Posts:
 
-- [Approaches to build AI for android application](https://illia.dev/blog/ai-mobile-app)
+- [Approaches to build AI for android application](https://)
 
