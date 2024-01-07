@@ -20,8 +20,8 @@
 Hello, fellow developers! 👋 I'm Illia, a passionate Mobile Developer based in Ireland. With a strong foundation in software engineering, I bring creativity and innovation to iOS and Android development projects. My journey in the tech world is fueled by a love for creating impactful and user-friendly mobile applications.
 
 - :telescope: Currently working as a Software Engineer, contributing to iOS/Android software development.
-- :seedling: Continuously exploring the realms of AI, ML, and AR to stay at the forefront of mobile development trends.
-- :zap: Open to collaborating and actively seeking talented Android/iOS native developers to join forces on exciting and impactful projects.
+- :seedling: Continuously exploring the realms of AI, ML, and AR.
+- :zap: Open to collaborating in Android/iOS native development.
 
 ---
 
