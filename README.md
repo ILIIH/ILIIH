@@ -73,6 +73,6 @@ Looking forward to creating amazing things together!
 
 ## Recent Youtube Posts:
 
-- [MVVM Architecture](https://)
+- [MVVM Architecture](https://youtu.be/hoTG8FzJkxk?si=EOsuf_Pob4VopdnN)
 - [Approaches to build AI for android application](https://)
 
