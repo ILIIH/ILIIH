@@ -21,7 +21,7 @@ Hello, fellow developers! 👋 I'm Illia, a passionate Mobile Developer based in
 
 - :telescope: Currently working as a Software Engineer, contributing to iOS/Android software development.
 - :seedling: Continuously exploring the realms of AI, ML, and AR.
-- :zap: Open to collaborating in Android/iOS native development.
+- :zap: Open to collaborating in Android/iOS native development. 
 
 ---
 
