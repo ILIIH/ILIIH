@@ -67,7 +67,7 @@ Hello, fellow developers! 👋 I'm Illia, a passionate Mobile Developer based in
 Feel free to connect and explore the world of coding with me! 🚀
 
 - 📧 Email: illiabranchuk@gmail.com
-- 🌐 Portfolio: [illia.dev](https://)
+- 🌐 Portfolio: [illia.dev](https://iliih.github.io/Course-website/)
 
 Looking forward to creating amazing things together!
 
