@@ -69,7 +69,6 @@ Hello developers! 👋 I'm Illia, Data Scientist with long experience in mobile 
 Feel free to connect and explore the world of coding with me! 🚀
 
 - 📧 Email: illiabranchuk@gmail.com
-- 🌐 Portfolio: [illia.dev](https://iliih.github.io/Course-website/)
 
 Looking forward to creating amazing things together!
 
