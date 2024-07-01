@@ -18,7 +18,7 @@
 
 ## About Me:
 
-Hello developers! 👋 I'm Illia, Data Scientist with long experience in mobile development based in Ireland. With a strong foundation in software engineering, I bring creativity and innovation to iOS and Android development projects. My journey in the tech world is fueled by a love for creating impactful and user-friendly mobile applications.
+Hello developers! 👋 I'm Illia, software developer / data analyst based in Ireland. With a strong foundation in software engineering, I bring creativity and innovation to iOS and Android development projects. My journey in the tech world is fueled by a love for creating impactful and user-friendly mobile applications.
 
 - :telescope: Currently working as a Software Engineer, contributing to iOS/Android software development.
 - :seedling: Continuously exploring the realms of AI, ML, and AR.
